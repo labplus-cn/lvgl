@@ -242,6 +242,86 @@ LV_FONT_DECLARE(lv_font_unscii_8)
 LV_FONT_DECLARE(lv_font_unscii_16)
 #endif
 
+#if LV_FONT_SIYUAN_SONGTI_14
+LV_FONT_DECLARE(lv_font_siyuan_songti_14)
+#endif
+
+#if LV_FONT_SIYUAN_SONGTI_16
+LV_FONT_DECLARE(lv_font_siyuan_songti_16)
+#endif
+
+#if LV_FONT_SIYUAN_SONGTI_20
+LV_FONT_DECLARE(lv_font_siyuan_songti_20)
+#endif
+
+#if LV_FONT_SIYUAN_SONGTI_24
+LV_FONT_DECLARE(lv_font_siyuan_songti_24)
+#endif
+
+#if LV_FONT_SIYUAN_SONGTI_32
+LV_FONT_DECLARE(lv_font_siyuan_songti_32)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_MEDIUM_14
+LV_FONT_DECLARE(lv_font_siyuan_heiti_medium_14)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_MEDIUM_16
+LV_FONT_DECLARE(lv_font_siyuan_heiti_medium_16)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_MEDIUM_20
+LV_FONT_DECLARE(lv_font_siyuan_heiti_medium_20)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_MEDIUM_24
+LV_FONT_DECLARE(lv_font_siyuan_heiti_medium_24)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_MEDIUM_32
+LV_FONT_DECLARE(lv_font_siyuan_heiti_medium_32)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_NORMAL_14
+LV_FONT_DECLARE(lv_font_siyuan_heiti_normal_14)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_NORMAL_16
+LV_FONT_DECLARE(lv_font_siyuan_heiti_normal_16)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_NORMAL_20
+LV_FONT_DECLARE(lv_font_siyuan_heiti_normal_20)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_NORMAL_24
+LV_FONT_DECLARE(lv_font_siyuan_heiti_normal_24)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_NORMAL_32
+LV_FONT_DECLARE(lv_font_siyuan_heiti_normal_32)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_REGULAR_14
+LV_FONT_DECLARE(lv_font_siyuan_heiti_regular_14)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_REGULAR_16
+LV_FONT_DECLARE(lv_font_siyuan_heiti_regular_16)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_REGULAR_20
+LV_FONT_DECLARE(lv_font_siyuan_heiti_regular_20)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_REGULAR_24
+LV_FONT_DECLARE(lv_font_siyuan_heiti_regular_24)
+#endif
+
+#if LV_FONT_SIYUAN_HEITI_REGULAR_32
+LV_FONT_DECLARE(lv_font_siyuan_heiti_regular_32)
+#endif
+
 /*Declare the custom (user defined) fonts*/
 #ifdef LV_FONT_CUSTOM_DECLARE
 LV_FONT_CUSTOM_DECLARE
